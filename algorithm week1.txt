@@ -1,0 +1,18 @@
+start
+Step 1: Initialize variables
+    SET sum = 0
+    SET num = 0
+    SET limit = 10
+
+Step 2: Start the loop
+    WHILE num <= limit
+        
+Step 3:if yes SET sum = sum + num
+
+Step 4: Move to the next number
+        SET num = num + 2
+
+    END WHILE
+Step 5:if no Output the result
+    PRINT "Final Sum: ", sum
+END
