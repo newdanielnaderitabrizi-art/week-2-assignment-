@@ -1,2 +1,2 @@
-# week-2-assignment-
+# week-1-assignment-
 algorithm and data structure assignment 
